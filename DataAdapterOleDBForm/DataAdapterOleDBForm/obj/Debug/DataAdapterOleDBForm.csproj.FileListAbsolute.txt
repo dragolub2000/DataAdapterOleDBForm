@@ -1,0 +1,11 @@
+C:\ASP\DataAdapterOleDBForm\DataAdapterOleDBForm\DataAdapterOleDBForm\bin\Debug\DataAdapterOleDBForm.exe.config
+C:\ASP\DataAdapterOleDBForm\DataAdapterOleDBForm\DataAdapterOleDBForm\bin\Debug\DataAdapterOleDBForm.exe
+C:\ASP\DataAdapterOleDBForm\DataAdapterOleDBForm\DataAdapterOleDBForm\bin\Debug\DataAdapterOleDBForm.pdb
+C:\ASP\DataAdapterOleDBForm\DataAdapterOleDBForm\DataAdapterOleDBForm\obj\Debug\DataAdapterOleDBForm.csproj.AssemblyReference.cache
+C:\ASP\DataAdapterOleDBForm\DataAdapterOleDBForm\DataAdapterOleDBForm\obj\Debug\DataAdapterOleDBForm.csproj.SuggestedBindingRedirects.cache
+C:\ASP\DataAdapterOleDBForm\DataAdapterOleDBForm\DataAdapterOleDBForm\obj\Debug\DataAdapterOleDBForm.Form1.resources
+C:\ASP\DataAdapterOleDBForm\DataAdapterOleDBForm\DataAdapterOleDBForm\obj\Debug\DataAdapterOleDBForm.Properties.Resources.resources
+C:\ASP\DataAdapterOleDBForm\DataAdapterOleDBForm\DataAdapterOleDBForm\obj\Debug\DataAdapterOleDBForm.csproj.GenerateResource.cache
+C:\ASP\DataAdapterOleDBForm\DataAdapterOleDBForm\DataAdapterOleDBForm\obj\Debug\DataAdapterOleDBForm.csproj.CoreCompileInputs.cache
+C:\ASP\DataAdapterOleDBForm\DataAdapterOleDBForm\DataAdapterOleDBForm\obj\Debug\DataAdapterOleDBForm.exe
+C:\ASP\DataAdapterOleDBForm\DataAdapterOleDBForm\DataAdapterOleDBForm\obj\Debug\DataAdapterOleDBForm.pdb
